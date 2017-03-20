@@ -1,9 +1,11 @@
 # NET.S.2017.01.Artemenko.04
 Task1:  
-Разработать unit-тесты с использованием как NUnit Framework, так и MS Unit Test Framework (здесь использовать подход  Data Driven Testing) для тестирования метода из Задачи3 дня 3. 
+Разработать unit-тесты с использованием как NUnit Framework, так и MS Unit Test Framework (здесь использовать подход  Data Driven Testing) для тестирования метода из Задачи3 дня 3:  
+<a href = "https://github.com/Grosss/NET.S.2017.01.Artemenko.03">Day 3</a>
 
 Task2:  
-Разработать unit-тесты для тестирования методов задач (дни 2-3). (здесь и далее использовать для тестирования NUnit Framework).
+Разработать unit-тесты для тестирования методов задач (дни 2-3). (здесь и далее использовать для тестирования NUnit Framework):   
+<a href = "https://github.com/Grosss/NET.S.2017.01.Artemenko.02">Day 2</a>, <a href = "https://github.com/Grosss/NET.S.2017.01.Artemenko.03">Day 3</a>.
 
 Task3:   
 Реализовать метод NextBiggerNumber, который принимает положительное целое число и возвращает ближайше наибольшее  целое, состоящее из цифр исходного числа, и - 1 (null), если такого числа не существует.
